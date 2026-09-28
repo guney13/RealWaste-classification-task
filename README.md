@@ -78,3 +78,28 @@ jupyter notebook main.ipynb
 Run all cells from top to bottom. The program will automatically choose **CUDA**, **Apple MPS**, or the **CPU**, depending on what is available.
 > **Note:** To evaluate the provided `best_res_params.pt` without retraining, skip the training cell and run the cells after it. Running the training cell **overwrites** the saved `best_res_params.pt`.
 
+
+
+
+---
+
+
+## Citation
+
+The RealWaste dataset was introduced in the following paper:
+
+> S. Single, S. Iranmanesh, and R. Raad, "RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning," *Information*, vol. 14, no. 12, p. 633, 2023. doi: [10.3390/info14120633](https://doi.org/10.3390/info14120633)
+
+```bibtex
+@article{single2023realwaste,
+  title   = {RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning},
+  author  = {Single, Sam and Iranmanesh, Saeid and Raad, Raad},
+  journal = {Information},
+  volume  = {14},
+  number  = {12},
+  pages   = {633},
+  year    = {2023},
+  publisher = {MDPI},
+  doi     = {10.3390/info14120633}
+}
+```
