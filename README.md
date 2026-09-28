@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ### 3. Download the dataset
 
-Download RealWaste from the [RealWaste Dataset](https://archive.ics.uci.edu/dataset/908/realwaste), extract it, and place the `RealWaste` folder under `data/`. The data/ folder should look like this:
+Download RealWaste from the [RealWaste Dataset](https://archive.ics.uci.edu/dataset/908/realwaste), extract it, and place the `RealWaste` folder under `data/`. The resulting data/ folder should look like this:
 
 ```
 data/
