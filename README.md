@@ -25,8 +25,8 @@ Repo Structure
 |- main.ipynb
 |- best_res_params.pt   # best performing model parameters
 |- README.md            # explanation of the project
+|- requirements.txt     # the versions of the python packages
 ```
-
 
 
 
